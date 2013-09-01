@@ -1,0 +1,5 @@
+load "master.rb"
+m = Master.new("neuralgica");
+#m = Master.new("jarabe");
+m.iniciar
+
